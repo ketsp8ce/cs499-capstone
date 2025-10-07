@@ -11,7 +11,7 @@
   My interest in bio/pharm was at least in part influenced by my own health issues mixed with health anxiety, and there was a neurotic component to wanting to understand things personally to escape the fear of not understanding my own body or my own pain. 
   I eventually decided that pursuring a career based on a passion rooted in health anxiety was not ultimately a psychologically healthy choice for me.
   In contast, my interest in technology has always been purely conceptual and something that I could encourage and engage with wihtout obsession.  
-**Have you completed any research about your choice of career? How has this impacted your thinking? Have you thought about seeking an advanced degree or certification after earning your undergraduate degree?**
+### Have you completed any research about your choice of career? How has this impacted your thinking? Have you thought about seeking an advanced degree or certification after earning your undergraduate degree? ###
 I have indeed conducted research in various areas of the technolgoy field. Reading article,s watching videos, consulting with career counselors to name a few. In tandem with completed more courses and learning the fundamentals of various areas of computer science, I have realized that information technology encompasses most of my interests. I have been studying for the comptia security+ and network+. Once I complete, my degree I will choose one of these to commit to studying. However, I have also reamined open to various other types of jobsnand internships such as software engineering and AI. The job market is tough right now, so I will take whatever I can get. 
 I have considered 
 ### Which course outcomes have you achieved so far, and which ones remain?
