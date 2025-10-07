@@ -15,26 +15,19 @@
 I have indeed conducted research in various areas of the technolgoy field. Reading article,s watching videos, consulting with career counselors to name a few. In tandem with completed more courses and learning the fundamentals of various areas of computer science, I have realized that information technology encompasses most of my interests. I have been studying for the comptia security+ and network+. Once I complete, my degree I will choose one of these to commit to studying. However, I have also reamined open to various other types of jobsnand internships such as software engineering and AI. The job market is tough right now, so I will take whatever I can get. 
 I have considered 
 ### Which course outcomes have you achieved so far, and which ones remain?
-In my first enhancmenet for artifact 1, I wrote in my enhancement plan that the following course outcome would dbe met: 
- ** "Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. ” **
-I believe I succeeded in meeting this outcome by writing a conventionally professional tutorial and implementing a version control process.
-For my second enhancement, I proposed the following course outcome would be met:
- ** "Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices." **
-I succeeded in meeting this outcome by reconstructing an OpenGL 3D model in Unity, which has data structures and algorithms underlying its architecture.
-I have yet to employ the following course outcome, but plan to in my third artifact:
-** “Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.” **
-I will need to construct a client server environment for my third artifact enhancement, which will recreate the environment used in my client server development course. I will need to host the server with a database and the client side environment to query the database. I will also need to reconstruct the CRUD module.
-The course outcome which I proposed would align with artifact 3 in my enhancement plan
-** "Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals." **
-While artifact 3 will still encompass this, I believe that the first two artifacts also fell under this outcome. 
+  In my first enhancmenet for artifact 1, I wrote in my enhancement plan that the following course outcome would dbe met: 
+ **"Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. ”** I believe I succeeded in meeting this outcome by writing a conventionally professional tutorial and implementing a version control process.
+  For my second enhancement, I proposed the following course outcome would be met: **"Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices."** I succeeded in meeting this outcome by reconstructing an OpenGL 3D model in Unity, which has data structures and algorithms underlying its architecture.
+  When it comes to my third artifact, I believe I chose the wrong course outcome originally in my enhancement plan. I have yet to employ this following course outcome, but I believe it will be well represented in my third artifact enhancment: **“Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.”** I will need to construct a client server environment for my third artifact enhancement, which will recreate the environment used in my client server development course. I will need to host the server with a database and the client side environment to query the database. I will also need to reconstruct the CRUD module.
+The original course outcome which I proposed would align with artifact 3 in my enhancement plan was the following: **"Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals."**
+While artifact 3 will still encompass this, I believe that the first two artifacts also fell under this outcome. In which case I have met this outcome and will continue to meet it.
 
 ## Part Two 
 
 ### Provide an update to your instructor on your progress with each category of artifacts for the ePortfolio:
-
-    **Software design and engineering**
+  **Software design and engineering**
 I have completed the majority of a tutorial on Linux Virtualization for beginners. I have completed the Arch Linux component of this tutorial, and I plan to add a Kali Linux and Debian component either during the remainder of my time enrolled in cs499, or sometime following the completion of the course.
-    **Algorithms and data structures**
+  **Algorithms and data structures**
 I have completed a 3D model of the same frilled shark plushie in Unity, which I originally constructed in openGl. I plan to add lighting and possibly a background in the future. 
-    **Databases**
+  **Databases**
 I have yet to begin my third artifact, which will consist of recreating a client server development environment on my own system. 
