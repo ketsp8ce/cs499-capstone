@@ -4,32 +4,63 @@ Computer science has a long history of innovation and the spirit of discovery wi
 
 Choose two trends and write a journal entry that answers the following five questions. Then complete the Status Checkpoints table.
 
-Part One:
+## Part One:
 
-    What is the significance of each trend?
-    How will each trend change the field of computer science?
-    How will each trend change the experience of consumers, workers, or citizens?
-    How will each trend fit in with your career interests or aspirations?
+###    What is the significance of each trend?
+The two trends I will be examining are Generative AI and 5G networking. Generative AI is the most obvoius global trend in not only computer science but technology itself worldwide.
+Ai is inflitrating every area of life, even areas which its use-case is questionable. 
+5G on the other-hand has assumed a more quiet takeover. It is faster than any previous networking technology,
+and its prevalence has represented the most signifigant change
+in smartphone technology since the first Iphone. 
+###     How will each trend change the field of computer science?
+Both of these technologies have already changed computer science.
+#### Generative AI
+Many programmers are now vibe coding. It is so prevalent that some are calling it an epidemic.
+While this technology has improved the average beginner programmers scope of what they can create, especially in its more 
+recent iterations to help with programming specifically, it has also severely damaged integrity of knowledge among peers.
+I believe the most drastic negative effect of this is on security culture and devsecops. If the average member of a team only has a partial understanding of the application, we have a serious problem. 
+#### 5G    
+5G has higher speeds and lower latency than any type of internet previously available. 
+This brings with it the need for new security protocols and new considerations for edge computing 
+The extremely low latency allows real time processing almost to the scale of human brains.
+This is groundfaking for technologies such as self driving cars.
+### How will each trend change the experience of consumers, workers, or citizens?
+#### Generative AI
+the effect on academia has been noted in students and 
+teachers alike. In average citizens, generative AI is replacing socialization. The long term effects on childhood development are unkown.
+We do know from short term studies that habitual use of generative AI causes decreased cognitive metrics. 
+#### 5G
+Many people all of the old, even in very remote locations can now acesss the double edged sword that is the internet. 
+With 5G there has also been a resurgance of EMF conspiracy theories, a result of misunderstanding extremely basic physics; they do not get that raditation is simply a particle moving through a medium
+How will each trend fit in with your career interests or aspirations?
+#### Generative AI
+As early as 2015, I had a personal fasination with science fiction and particularly artificial intelligence. 
+Back then, it was an extremely unpopular area of discourse. I had many fantasies for the future possibilies in areas such as machine learning
+and cognitive systems. Unfortunately, generative AI has been the first type of AI to advance, and sci fi thought experiments have been 
+hijacked and misused for some specifical oligarch's power trips. For my part, this outcome has led me to want to stay as far away from AI as possible in my career.
+#### 5G
+5G has allowed for higher processing speeds than before and this has come with massive innovations in areas like IoT and cloud computing.
+I will likely work with these technologies in my career. 
     Which course outcomes have you achieved so far, and which ones remain?
 
 Part Two:
 
 Provide an update to your instructor on your progress with each category of artifacts for the ePortfolio:
 
-    Software design and engineering
-    Algorithms and data structures
-    Databases
+    Software design and engineering - I have completed and submitted this enhancement, and recieved feedback from my instructor. 
+    Algorithms and data structures - I have completed and submitted this enhancement, and recieved feedback from my instructor.
+    Databases - As of this morning, I have submitted the enhancement and am waiting for feedback. 
 
-Use the following Status Checkpoints table to document your progress in each of your three category enhancements. Complete the table with a report on each category, including its status and some details. For instance, if you are working on the initial enhancement for your work in the databases category, you would briefly note which enhancements you have completed and which are still to come in that cell of the table. Also, note any trouble spots or places where you may need help. An exemplar can be found in the Readings and Resources section of the course.
-Status Checkpoints for All Categories
-Checkpoint 	Software Design and Engineering 	Algorithms and Data Structures 	Databases
-Name of Artifact Used 			
-Status of Initial Enhancement 			
-Submission Status 			
-Status of Final Enhancement 			
-Uploaded to ePortfolio 			
-Status of Finalized ePortfolio 			
-Optional Feedback
+| Checkpoint | Software Design and Engineering | Algorithms and Data Structures | Databases |
+|-------------|---------------------------------|--------------------------------|------------|
+| **Name of Artifact Used** |  |  |  |
+| **Status of Initial Enhancement** | ✅ | ✅ | ✅ | ✅
+| **Submission Status** | ✅ | ✅ | ✅ | ✅
+| **Status of Final Enhancement** | ✅ | ✅ | ✅ | ❌
+| **Uploaded to ePortfolio** | ✅ | ✅ | ✅ | ✅
+| **Status of Finalized ePortfolio** | ❌ | ❌  | ❌ | ❌
+| **Optional Feedback** |  |  |  |
+
 
 Post links to any of the artifacts you are currently polishing for instructor feedback. Mention specific aspects or elements of the artifact that you would like feedback on.
 
